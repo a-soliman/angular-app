@@ -27,3 +27,9 @@ app.controller('ServicesCtrl', ['$scope', '$http', function($scope, $http) {
 		$scope.services = response.data
 	})
 }])
+
+app.controller('ContactCtrl', ['$scope', '$http', function($scope, $http) {
+	$http.get('locations.json').then(function(response) {
+		$scope.locations = response.data 
+	})
+}])
