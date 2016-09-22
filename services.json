@@ -1,0 +1,21 @@
+[
+	{
+		"id": 1,
+		"name": "Hardware repairs",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere expedita illo temporibus commodi porro, quis fuga aut. Fugiat ipsum, veniam iste inventore consequatur expedita eum, enim incidunt, asperiores vel doloribus.",
+		"image": "img/computer.png"
+	},
+	{
+		"id": 2,
+		"name": "Virus Removal",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere expedita illo temporibus commodi porro, quis fuga aut. Fugiat ipsum, veniam iste inventore consequatur expedita eum, enim incidunt, asperiores vel doloribus.",
+		"image": "img/computer.png"
+	},
+	{
+		"id": 3,
+		"name": "System Tuneup!",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere expedita illo temporibus commodi porro, quis fuga aut. Fugiat ipsum, veniam iste inventore consequatur expedita eum, enim incidunt, asperiores vel doloribus.",
+		"image": "img/computer.png"
+	}
+
+]
