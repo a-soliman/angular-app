@@ -1,0 +1,24 @@
+[
+	{
+		"id": 1,
+		"name": "San Fran Location",
+		"street_address": "555 Hazelnut Ave",
+		"state": "CA",
+		"phone": "415 555 5555"
+
+	},
+	{
+		"id": 2,
+		"name": "Hunululu Location",
+		"street_address": "555 Bangulu Ave",
+		"state": "CA",
+		"phone": "553 555 5555"
+	},
+	{
+		"id": 3,
+		"name": "LA Location",
+		"street_address": "5992 Hazelnut Ave",
+		"state": "CA",
+		"phone": "415 555 5555"
+	}
+]
